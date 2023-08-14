@@ -16,3 +16,12 @@
 * Lecture 12: Simple Linear Regression
 * Lecture 13: Inference for Simple Linear Regression
 * Lecture 14: Quadratic Regression Model
+
+## Labs
+
+### Labs
+
+* Lab 1: Intro to R
+* Lab 2: Intro to Data Summaries and Graphics in R
+* Lab 3: Inference for Two Means Using R
+* Lab 4: Simple Linear Regression Using R
