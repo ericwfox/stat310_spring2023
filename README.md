@@ -17,8 +17,6 @@
 * Lecture 13: Inference for Simple Linear Regression
 * Lecture 14: Quadratic Regression Model
 
-## Labs
-
 ### Labs
 
 * Lab 1: Intro to R
